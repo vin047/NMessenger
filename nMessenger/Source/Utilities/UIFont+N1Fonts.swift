@@ -64,3 +64,4 @@ extension UIFont {
         return UIFont.systemFont(ofSize: 12.0, weight: UIFont.Weight.medium)
     }
 }
+
