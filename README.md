@@ -1,3 +1,6 @@
+### IMPORTANT: Forked from [mbalex99/NMessenger - swift4 branch](https://github.com/mbalex99/NMessenger/tree/swift4)
+##
+
 # ![./NMessenger](https://github.com/eBay/NMessenger/blob/master/Assets/nmessenger.png)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/eBay/NMessenger/blob/master/LICENSE)
 
